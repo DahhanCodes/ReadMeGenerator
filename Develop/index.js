@@ -69,7 +69,7 @@ const promptUser = ()=> {
             type: 'checkbox',
             name: 'license',
             message: 'Please choose a liscence:',
-            choices: ['MIT', 'agpl-3.0','gpl-3.0', 'apache-2.0']
+            choices: ['mit', 'agpl-3.0','gpl-3.0', 'apache-2.0']
 
         },
         

@@ -2,7 +2,7 @@
   # **ReadMe Generator**
 
   ## **Description:**
- **An app that creates ReadMe file**
+ **An app that creates ReadMe files**
 
   ## Table of Contents:
    - [Installation](#installion)
@@ -20,13 +20,13 @@
   ### *License*
   
   
-  ![MIT](https://img.shields.io/badge/license-MIT-green)
+  ![mit](https://img.shields.io/badge/license-mit-green)
   
   
-  ***MIT***
+  ***mit***
 
   
-  [https://chooselicense.com/licenses/MIT/](https://chooselicense.com/licenses/MIT/)
+  [https://chooselicense.com/licenses/mit/](https://chooselicense.com/licenses/mit/)
   
 
   
