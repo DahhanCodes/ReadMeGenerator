@@ -6,7 +6,7 @@ const renderLicenseBadge = license =>{
     return '';
   }
   return `
-  ![${license}](https://img.shields.io/badge/<license>-<${license}>-<green>)
+  ![${license}](https://img.shields.io/badge/license-${license}-green)
   `
 }
 
@@ -30,7 +30,7 @@ const renderLicenseSection = license=> {
   return `
   ### License ${renderLicenseBadge(license)}
   **${license}**
-  *${renderLicenseLink(license)}*
+  *(${renderLicenseLink(license)})*
 
   `
 }
