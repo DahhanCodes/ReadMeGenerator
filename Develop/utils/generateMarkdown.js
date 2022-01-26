@@ -17,7 +17,7 @@ const renderLicenseLink = license =>{
     return '';
   }
   return `
-  [${license}](https://chooselicense.com/licenses/${license}/)
+  [https://chooselicense.com/licenses/${license}/](https://chooselicense.com/licenses/${license}/)
   `
 }
 
@@ -30,7 +30,8 @@ const renderLicenseSection = license=> {
   return `
   ### License ${renderLicenseBadge(license)}
   **${license}**
-  *(${renderLicenseLink(license)})*
+
+  ***${renderLicenseLink(license)}***
 
   `
 }
@@ -42,7 +43,7 @@ module.exports = templateMarkdown => {
   # **${templateMarkdown.projectName}**
 
   ## *Description:*
-    *${templateMarkdown.proDescrip}*
+    ***${templateMarkdown.proDescrip}***
 
   ## Table of Contents:
    - [Installation](#installion)

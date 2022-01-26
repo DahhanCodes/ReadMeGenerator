@@ -2,7 +2,7 @@
   # **ReadMe Generator**
 
   ## *Description:*
-    *Generates a read me file*
+    ***Generates a ReadMe file***
 
   ## Table of Contents:
    - [Installation](#installion)
@@ -11,19 +11,20 @@
    - [Contribution](#contribution)
 
   ### Installations:
-  must use inquirer and install required packages
+  must install inquirer and requried packages
 
   ### Usage:
-  follow prompt instructions
+  Follow prompt instructions and the app will automatically create the file for you.
 
   
   ### License 
-  ![MIT](https://img.shields.io/badge/<license>-<MIT>-<green>)
+  ![MIT](https://img.shields.io/badge/license-MIT-green)
   
   **MIT**
-  *
-  [MIT](https://chooselicense.com/licenses/MIT/)
-  *
+
+  ***
+  [https://chooselicense.com/licenses/MIT/](https://chooselicense.com/licenses/MIT/)
+  ***
 
   
   
