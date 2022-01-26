@@ -57,24 +57,20 @@ module.exports = templateMarkdown => {
   _${templateMarkdown.installation}_
 
   ### *Usage:*
-
   _${templateMarkdown.usage}_
 
   ### *License*
-
   ${renderLicenseSection(templateMarkdown.license)}
   
   ### *Contribution:*
-   
   _${templateMarkdown.contribution}_
 
   ### *Tests:*
-
   _${templateMarkdown.test}_
 
   #### Questions:
-    - [Email: ${templateMarkdown.email}]
-    - [https://github.com/${templateMarkdown.gitHub}/](#https://github.com/${templateMarkdown.gitHub}/)
+ - [Email: ${templateMarkdown.email}]
+ - [https://github.com/${templateMarkdown.gitHub}/](#https://github.com/${templateMarkdown.gitHub}/)
 
 `;
 }
