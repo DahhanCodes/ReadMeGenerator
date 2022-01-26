@@ -2,7 +2,7 @@
   # **ReadMe Generator**
 
   ## **Description:**
- **An app that generates a ReadMe file**
+ **An app that creates ReadMe file**
 
   ## Table of Contents:
    - [Installation](#installion)
@@ -15,7 +15,7 @@
   _Install inquirer and required packages_
 
   ### *Usage:*
-  _Follow prompt instructions _
+  _Follow prompt instructions_
 
   ### *License*
   
@@ -38,6 +38,6 @@
   _NA_
 
   #### Questions:
- - [Email: moustafaeldahhan@gmail.com]
- - [https://github.com/DahhanCodes/]
+ - Email: moustafaeldahhan@gmail.com
+ - https://github.com/DahhanCodes/
 
