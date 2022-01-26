@@ -17,7 +17,7 @@ const renderLicenseLink = license =>{
     return '';
   }
   return `
-  [https://chooselicense.com/licenses/${license}/](https://chooselicense.com/licenses/${license}/)
+  [https://choosealicense.com/licenses/${license}/](https://choosealicense.com/licenses/${license}/)
   `
 }
 

@@ -26,7 +26,7 @@
   ***mit***
 
   
-  [https://chooselicense.com/licenses/mit/](https://chooselicense.com/licenses/mit/)
+  [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/)
   
 
   
