@@ -17,7 +17,7 @@ const renderLicenseLink = license =>{
     return '';
   }
   return `
-  [https://chooselicense.com/licenses/${license}/](https://chooselicense.com/licenses/${license}/)
+  [https://choosealicense.com/licenses/${license}/](https://choosealicense.com/licenses/${license}/)
   `
 }
 
@@ -69,8 +69,8 @@ module.exports = templateMarkdown => {
   _${templateMarkdown.test}_
 
   #### Questions:
- - [Email: ${templateMarkdown.email}]
- - [https://github.com/${templateMarkdown.gitHub}/]
+ - Email: ${templateMarkdown.email}
+ - https://github.com/${templateMarkdown.gitHub}/
 
 `;
 }
