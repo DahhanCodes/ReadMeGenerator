@@ -51,23 +51,26 @@ module.exports = templateMarkdown => {
    - [License](#license)
    - [Contribution](#contribution)
 
-  ### Installations:
-  ${templateMarkdown.installation}
+  ### *Installations:*
+  **${templateMarkdown.installation}**
 
-  ### Usage:
-  ${templateMarkdown.usage}
+  ### *Usage:*
+  _${templateMarkdown.usage}_
 
-  ${renderLicenseSection(templateMarkdown.license)}
+  **${renderLicenseSection(templateMarkdown.license)}**
   
   
-  ### Contribution
-    Contribution guideline: ***[shields.io](https://shields.io/)***
+  ### *Contribution:*
+   
+  _${templateMarkdown.contribution}_
 
-  ### Tests:
+  ### *Tests:*
 
-  #### Questions:
+  _${templateMarkdown.test}_
+
+  #### *Questions:*
     - Email: ${templateMarkdown.email}
-    - GitHub: ${templateMarkdown.gitHub}
+    - GitHub: [https://github.com/${templateMarkdown.gitHub}/](https://github.com/${templateMarkdown.gitHub}/)
 
 `;
 }

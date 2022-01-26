@@ -50,6 +50,21 @@ const promptUser = ()=> {
             message: 'Enter usage information:'
 
         },
+        
+        {
+            type: 'input',
+            name: 'test',
+            message:'Enter testing instructions:'
+
+        },
+
+        {
+            type: 'input',
+            name: 'contribution',
+            message:'Enter contribution guidelines:'
+
+        },
+
         {   
             type: 'checkbox',
             name: 'license',

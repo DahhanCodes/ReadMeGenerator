@@ -1,8 +1,8 @@
 
-  # **ReadMe Generator**
+  # **read me**
 
   ## *Description:*
-    ***Generates a ReadMe file***
+    **generates read me**
 
   ## Table of Contents:
    - [Installation](#installion)
@@ -10,31 +10,34 @@
    - [License](#license)
    - [Contribution](#contribution)
 
-  ### Installations:
-  must install inquirer and requried packages
+  ### *Installations:*
+  **install inquirer and required packages**
 
-  ### Usage:
-  Follow prompt instructions and the app will automatically create the file for you.
+  ### *Usage:*
+  _follow prompt instructions_
 
-  
+  **
   ### License 
   ![MIT](https://img.shields.io/badge/license-MIT-green)
   
   **MIT**
 
-  ***
+  **
   [https://chooselicense.com/licenses/MIT/](https://chooselicense.com/licenses/MIT/)
-  ***
+  **
 
+  **
   
   
-  
-  ### Contribution
-    Contribution guideline: *[shields.io](https://shields.io/)*
+  ### *Contribution:*
+   
+  _open_
 
-  ### Tests:
+  ### *Tests:*
 
-  #### Questions:
+  _test on external terminal_
+
+  #### *Questions:*
     - Email: moustafaeldahhan@gmail.com
-    - GitHub: DahhanCodes
+    - GitHub: [https://github.com/DahhanCodes/](https://github.com/DahhanCodes/)
 
