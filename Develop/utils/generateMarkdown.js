@@ -42,7 +42,7 @@ module.exports = templateMarkdown => {
   return `
   # **${templateMarkdown.projectName}**
 
-  ## *Description:*
+  ## _Description:_
 
     _${templateMarkdown.proDescrip}_
 
@@ -57,7 +57,7 @@ module.exports = templateMarkdown => {
   _${templateMarkdown.installation}_
 
   ### *Usage:*
-  
+
   _${templateMarkdown.usage}_
 
   _${renderLicenseSection(templateMarkdown.license)}_

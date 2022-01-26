@@ -1,8 +1,9 @@
 
-  # **ReadMe Generator**
+  # **ReadMe**
 
-  ## *Description:*
-    **An app that generates a ReadMe file**
+  ## _Description:_
+
+    _ReadMe generator_
 
   ## Table of Contents:
    - [Installation](#installion)
@@ -11,22 +12,24 @@
    - [Contribution](#contribution)
 
   ### *Installations:*
-  **Install inquirer and required packages**
+
+  _Install inquirer and require packacges_
 
   ### *Usage:*
+
   _Follow prompt instructions_
 
-  **
+  _
   ### License 
   ![MIT](https://img.shields.io/badge/license-MIT-green)
   
   **MIT**
 
-  **
+  _
   [https://chooselicense.com/licenses/MIT/](https://chooselicense.com/licenses/MIT/)
-  **
+  _
 
-  **
+  _
   
   
   ### *Contribution:*
@@ -35,7 +38,7 @@
 
   ### *Tests:*
 
-  _Test on external terminal_
+  _Test on an external terminal_
 
   #### *Questions:*
     - Email: moustafaeldahhan@gmail.com
