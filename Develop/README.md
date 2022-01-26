@@ -2,7 +2,7 @@
   # **ReadMe Generater**
 
   ## **Description:**
-    **An app that generates ReadMe File**
+    **An app that generates a ReadMe File**
 
   ## Table of Contents:
    - [Installation](#installion)
@@ -12,7 +12,7 @@
 
   ### *Installations:*
 
-  _Install inquirer and require packages_
+  _Install inqurer_
 
   ### *Usage:*
 
