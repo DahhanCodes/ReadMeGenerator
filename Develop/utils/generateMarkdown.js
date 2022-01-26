@@ -28,8 +28,8 @@ const renderLicenseSection = license=> {
     return '';
   }
   return `
-  ### License ${renderLicenseBadge(license)}
-  **${license}**
+  ### *License:*
+  ***${license}***
 
   _${renderLicenseLink(license)}_
 
@@ -42,9 +42,8 @@ module.exports = templateMarkdown => {
   return `
   # **${templateMarkdown.projectName}**
 
-  ## _Description:_
-
-    _${templateMarkdown.proDescrip}_
+  ## **Description:**
+    _ ${templateMarkdown.proDescrip} _
 
   ## Table of Contents:
    - [Installation](#installion)
@@ -60,7 +59,7 @@ module.exports = templateMarkdown => {
 
   _${templateMarkdown.usage}_
 
-  _${renderLicenseSection(templateMarkdown.license)}_
+  ${renderLicenseSection(templateMarkdown.license)}
   
   
   ### *Contribution:*
@@ -72,8 +71,8 @@ module.exports = templateMarkdown => {
   _${templateMarkdown.test}_
 
   #### *Questions:*
-    - Email: ${templateMarkdown.email}
-    - GitHub: [https://github.com/${templateMarkdown.gitHub}/](https://github.com/${templateMarkdown.gitHub}/)
+    - [Email: ${templateMarkdown.email}]
+    - [https://github.com/${templateMarkdown.gitHub}/](https://github.com/${templateMarkdown.gitHub}/)
 
 `;
 }

@@ -1,9 +1,9 @@
 
-  # **ReadMe**
+  # **Readme Generator**
 
   ## _Description:_
 
-    _ReadMe generator_
+    _Generates ReadMe file_
 
   ## Table of Contents:
    - [Installation](#installion)
@@ -13,7 +13,7 @@
 
   ### *Installations:*
 
-  _Install inquirer and require packacges_
+  _Install inquirer and require packages_
 
   ### *Usage:*
 
@@ -38,7 +38,7 @@
 
   ### *Tests:*
 
-  _Test on an external terminal_
+  _test on external terminal_
 
   #### *Questions:*
     - Email: moustafaeldahhan@gmail.com
