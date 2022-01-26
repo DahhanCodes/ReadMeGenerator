@@ -1,8 +1,8 @@
 
-  # **read me**
+  # **ReadMe Generator**
 
   ## *Description:*
-    **generates read me**
+    **An app that generates a ReadMe file**
 
   ## Table of Contents:
    - [Installation](#installion)
@@ -11,10 +11,10 @@
    - [Contribution](#contribution)
 
   ### *Installations:*
-  **install inquirer and required packages**
+  **Install inquirer and required packages**
 
   ### *Usage:*
-  _follow prompt instructions_
+  _Follow prompt instructions_
 
   **
   ### License 
@@ -35,7 +35,7 @@
 
   ### *Tests:*
 
-  _test on external terminal_
+  _Test on external terminal_
 
   #### *Questions:*
     - Email: moustafaeldahhan@gmail.com
