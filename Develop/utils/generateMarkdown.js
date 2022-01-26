@@ -70,7 +70,7 @@ module.exports = templateMarkdown => {
 
   #### Questions:
  - [Email: ${templateMarkdown.email}]
- - [https://github.com/${templateMarkdown.gitHub}/](#https://github.com/${templateMarkdown.gitHub}/)
+ - [https://github.com/${templateMarkdown.gitHub}/]
 
 `;
 }
