@@ -1,5 +1,5 @@
 
-  # **ReadMe Generater**
+  # **ReadMe Generator**
 
   ## **Description:**
  **An app that generates a ReadMe file**
@@ -12,10 +12,10 @@
 
   ### *Installations:*
 
-  _Install inquirer_
+  _Install inquirer and required packages_
 
   ### *Usage:*
-  _Follow prompt instructions_
+  _Follow prompt instructions _
 
   ### *License*
   
