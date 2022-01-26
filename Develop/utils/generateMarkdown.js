@@ -31,7 +31,7 @@ const renderLicenseSection = license=> {
   ### License ${renderLicenseBadge(license)}
   **${license}**
 
-  ***${renderLicenseLink(license)}***
+  **${renderLicenseLink(license)}**
 
   `
 }
@@ -43,7 +43,7 @@ module.exports = templateMarkdown => {
   # **${templateMarkdown.projectName}**
 
   ## *Description:*
-    ***${templateMarkdown.proDescrip}***
+    **${templateMarkdown.proDescrip}**
 
   ## Table of Contents:
    - [Installation](#installion)
@@ -61,7 +61,7 @@ module.exports = templateMarkdown => {
   
   
   ### Contribution
-    Contribution guideline: *[shields.io](https://shields.io/)*
+    Contribution guideline: ***[shields.io](https://shields.io/)***
 
   ### Tests:
 
