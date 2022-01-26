@@ -31,7 +31,7 @@ const renderLicenseSection = license=> {
   ### License ${renderLicenseBadge(license)}
   **${license}**
 
-  **${renderLicenseLink(license)}**
+  _${renderLicenseLink(license)}_
 
   `
 }
@@ -43,7 +43,8 @@ module.exports = templateMarkdown => {
   # **${templateMarkdown.projectName}**
 
   ## *Description:*
-    **${templateMarkdown.proDescrip}**
+
+    _${templateMarkdown.proDescrip}_
 
   ## Table of Contents:
    - [Installation](#installion)
@@ -52,12 +53,14 @@ module.exports = templateMarkdown => {
    - [Contribution](#contribution)
 
   ### *Installations:*
-  **${templateMarkdown.installation}**
+
+  _${templateMarkdown.installation}_
 
   ### *Usage:*
+  
   _${templateMarkdown.usage}_
 
-  **${renderLicenseSection(templateMarkdown.license)}**
+  _${renderLicenseSection(templateMarkdown.license)}_
   
   
   ### *Contribution:*
